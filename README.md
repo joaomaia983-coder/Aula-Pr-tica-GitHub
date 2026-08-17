@@ -1,2 +1,2 @@
-# Aula-Pr-tica-GitHub
+# Aula Git Pratico
 Primeiros passos
